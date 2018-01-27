@@ -23,20 +23,7 @@ function parse(str) {
 }
 
 function findAirspaces(root) {
-  let node = root['AIRSPACES'];
-  if (!node) {
-    return [];
-  }
-
-  let airspaces = node['ASP'];
-  if (!airspaces) {
-    return [];
-  }
-  if (!Array.isArray(airspaces)) {
-    airspaces = [airspaces];
-  }
-
-  return airspaces.map(readAirspace);
+  return findCollection(root, 'AIRSPACES', 'ASP').map(readAirspace);
 }
 
 function readAirspace(node) {
@@ -76,6 +63,23 @@ function findNavaids(root) {
 
 function findWaypoints(root) {
   return [];
+}
+
+function findCollection(root, name, childName) {
+  let node = root[name];
+  if (!node) {
+    return [];
+  }
+
+  let children = node[childName];
+  if (!children) {
+    return [];
+  }
+  if (!Array.isArray(children)) {
+    children = [children];
+  }
+
+  return children;
 }
 
 function getChild(parent, name) {

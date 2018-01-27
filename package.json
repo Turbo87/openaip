@@ -6,6 +6,9 @@
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
   "main": "index.js",
   "repository": "https://github.com/Turbo87/openaip",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^22.1.4"
   }

@@ -11,5 +11,9 @@
   },
   "devDependencies": {
     "jest": "^22.1.4"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
   }
 }

@@ -23,7 +23,47 @@ function parse(str) {
 }
 
 function findAirspaces(root) {
-  return [];
+  let node = root['AIRSPACES'];
+  if (!node) {
+    return [];
+  }
+
+  let airspaces = node['ASP'];
+  if (!airspaces) {
+    return [];
+  }
+  if (!Array.isArray(airspaces)) {
+    airspaces = [airspaces];
+  }
+
+  return airspaces.map(readAirspace);
+}
+
+function readAirspace(node) {
+  let category = getAttribute(node, 'CATEGORY');
+  let version = getChildText(node, 'VERSION');
+  let id = getChildText(node, 'ID');
+  let country = getChildText(node, 'COUNTRY');
+  let name = getChildText(node, 'NAME');
+
+  let top = readAltitudeLimit(getChild(node, 'ALTLIMIT_TOP'));
+  let bottom = readAltitudeLimit(getChild(node, 'ALTLIMIT_BOTTOM'));
+
+  let _geometry = getChild(node, 'GEOMETRY');
+  let _polygon = getChildText(_geometry, 'POLYGON');
+  let geometry = parseCoordinates(_polygon);
+
+  return { category, version, id, country, name, top, bottom, geometry };
+}
+
+function readAltitudeLimit(node) {
+  let reference = getAttribute(node, 'REFERENCE');
+
+  let _alt = getChild(node, 'ALT');
+  let unit = getAttribute(_alt, 'UNIT');
+  let value = parseFloat(_alt._text);
+
+  return { reference, unit, value };
 }
 
 function findHotspots(root) {
@@ -47,6 +87,10 @@ function getChild(parent, name) {
   }
 }
 
+function getChildText(parent, name) {
+  return getChild(parent, name)._text;
+}
+
 function getAttribute(element, name) {
   let attributes = element._attributes || {};
   if (name in attributes) {
@@ -54,6 +98,10 @@ function getAttribute(element, name) {
   } else {
     throw new Error(`Missing ${name} attribute`);
   }
+}
+
+function parseCoordinates(str) {
+  return str.split(', ').map(it => it.split(' ').map(parseFloat));
 }
 
 module.exports = {

@@ -38,3 +38,13 @@ it('throws if VERSION is missing', () => {
 
   expect(() => openaip.parse(xml)).toThrow('Missing VERSION attribute');
 });
+
+it('returns empty airspace list if <ASP> is missing', () => {
+  const xml = `
+    <OPENAIP DATAFORMAT="1.1" VERSION="42">
+      <AIRSPACES></AIRSPACES>
+    </OPENAIP>
+  `;
+
+  expect(openaip.parse(xml).airspaces).toEqual([]);
+});

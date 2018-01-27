@@ -1,0 +1,9 @@
+{
+  "name": "openaip",
+  "version": "0.0.0",
+  "description": "OpenAIP file parser",
+  "license": "MIT",
+  "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "main": "index.js",
+  "repository": "https://github.com/Turbo87/openaip"
+}

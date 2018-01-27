@@ -1,9 +1,25 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`fixtures de_asp.aip 1`] = `undefined`;
+exports[`fixtures de_asp.aip 1`] = `
+Object {
+  "version": "5280e1c1c34273664f8d8b884fc5c4c309b3e475",
+}
+`;
 
-exports[`fixtures de_hot.aip 1`] = `undefined`;
+exports[`fixtures de_hot.aip 1`] = `
+Object {
+  "version": "1542404",
+}
+`;
 
-exports[`fixtures de_nav.aip 1`] = `undefined`;
+exports[`fixtures de_nav.aip 1`] = `
+Object {
+  "version": "1746655",
+}
+`;
 
-exports[`fixtures de_wpt.aip 1`] = `undefined`;
+exports[`fixtures de_wpt.aip 1`] = `
+Object {
+  "version": "1773968",
+}
+`;

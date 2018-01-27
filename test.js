@@ -16,3 +16,25 @@ describe('fixtures', () => {
     });
   }
 });
+
+it('throws if <OPENAIP> is missing', () => {
+  expect(() => openaip.parse('')).toThrow('Missing <OPENAIP> element');
+});
+
+it('throws if DATAFORMAT is missing', () => {
+  const xml = `<OPENAIP></OPENAIP>`;
+
+  expect(() => openaip.parse(xml)).toThrow('Missing DATAFORMAT attribute');
+});
+
+it('throws if DATAFORMAT is unsupported', () => {
+  const xml = `<OPENAIP DATAFORMAT="42"></OPENAIP>`;
+
+  expect(() => openaip.parse(xml)).toThrow('Unsupported DATAFORMAT: 42');
+});
+
+it('throws if VERSION is missing', () => {
+  const xml = `<OPENAIP DATAFORMAT="1.1"></OPENAIP>`;
+
+  expect(() => openaip.parse(xml)).toThrow('Missing VERSION attribute');
+});

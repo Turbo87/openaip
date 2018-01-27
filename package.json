@@ -9,6 +9,9 @@
   "scripts": {
     "test": "jest"
   },
+  "dependencies": {
+    "xml-js": "^1.6.2"
+  },
   "devDependencies": {
     "jest": "^22.1.4"
   },

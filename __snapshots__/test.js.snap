@@ -88773,6 +88773,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88800,6 +88801,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88828,6 +88830,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88856,6 +88859,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88884,6 +88888,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -88917,6 +88922,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88945,6 +88951,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -88973,6 +88980,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89001,6 +89009,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Usually, reliable lift can be found at this point in summer time.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89029,6 +89038,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89057,6 +89067,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89083,6 +89094,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89109,6 +89121,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "Stone quarry lies inside traffic pattern of airfield Neustadt-Saale!",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89140,6 +89153,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89168,6 +89182,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Best centered when you smell it :)",
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -89198,6 +89213,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89224,6 +89240,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89252,6 +89269,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89280,6 +89298,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89307,6 +89326,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Thermal  at South Side of Teutoburger Wald! ",
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -89343,6 +89363,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89371,6 +89392,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89399,6 +89421,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89427,6 +89450,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "You may find the thermal also somewhat north-east from the TV-Tower.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89453,6 +89477,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -89481,6 +89506,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89508,6 +89534,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89540,6 +89567,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89568,6 +89596,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89596,6 +89625,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89624,6 +89654,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89650,6 +89681,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "One of the best thermals you can get here in Lünen! Our members at the gliding club call it \\"Glashütte\\" named by the factory which is located here. ",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89676,6 +89708,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "Lift will usually be found in the south west corner of the chemical plant, but this may vary depending on wind.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89705,6 +89738,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Best spot is where the fields extend into the woods.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89733,6 +89767,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89761,6 +89796,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89789,6 +89825,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89817,6 +89854,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89845,6 +89883,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "AFTERNOON/LATE_AFTERNOON",
@@ -89875,6 +89914,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89903,6 +89943,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89931,6 +89972,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89959,6 +90001,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -89987,6 +90030,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90013,6 +90057,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -90043,6 +90088,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90071,6 +90117,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90098,6 +90145,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Bei Süd/Westwinden löst der Hang aus",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90132,6 +90180,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90170,6 +90219,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90198,6 +90248,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90226,6 +90277,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90254,6 +90306,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90290,6 +90343,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90316,6 +90370,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "Beware of heavy turbulences",
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -90344,6 +90399,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90372,6 +90428,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90400,6 +90457,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "This is the junction of the coal conveyor belts. It is the most reliable place to find a thermal in the otherwise thermally weak region between the two powerplants Weisweiler and Fortuna.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90427,6 +90485,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90456,6 +90515,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90482,6 +90542,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90510,6 +90571,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90536,6 +90598,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90564,6 +90627,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90592,6 +90656,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90618,6 +90683,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90644,6 +90710,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90672,6 +90739,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90700,6 +90768,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90728,6 +90797,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Beware of restricted area on race event!",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90756,6 +90826,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90784,6 +90855,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90812,6 +90884,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90840,6 +90913,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90868,6 +90942,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90896,6 +90971,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90922,6 +90998,7 @@ Object {
       "aircraftCategories": Array [
         "PARAGLIDER",
       ],
+      "comment": "Thermal typically used by paraglider pilots flying at Hönningen. Thermal starts quite narrow.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90953,6 +91030,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -90981,6 +91059,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91007,6 +91086,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91034,6 +91114,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91062,6 +91143,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91089,6 +91171,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91117,6 +91200,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91145,6 +91229,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91173,6 +91258,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91200,6 +91286,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91228,6 +91315,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91256,6 +91344,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91282,6 +91371,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": null,
       "country": "DE",
       "elevation": Object {
@@ -91303,6 +91393,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91331,6 +91422,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91359,6 +91451,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91387,6 +91480,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91415,6 +91509,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91443,6 +91538,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91471,6 +91567,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91503,6 +91600,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91531,6 +91629,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91559,6 +91658,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91587,6 +91687,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91615,6 +91716,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91643,6 +91745,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91677,6 +91780,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91705,6 +91809,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91733,6 +91838,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91761,6 +91867,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91789,6 +91896,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91817,6 +91925,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Position may vary a little on the ridge to the north or south.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91845,6 +91954,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91873,6 +91983,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91899,6 +92010,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "Basaltsteinbruch.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91935,6 +92047,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91962,6 +92075,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Merkur Paragliding Takeoff with reliable thermals. Sometimes thermals will develop a bit more to the west near the landing site, so if low, search there.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -91991,6 +92105,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92019,6 +92134,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92047,6 +92163,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92075,6 +92192,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92103,6 +92221,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92129,6 +92248,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92160,6 +92280,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -92188,6 +92309,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -92216,6 +92338,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "This hotspot refers to the whole ridge including both towers.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92242,6 +92365,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -92272,6 +92396,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92300,6 +92425,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92328,6 +92454,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92355,6 +92482,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92388,6 +92516,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92416,6 +92545,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92444,6 +92574,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92470,6 +92601,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "Beware of heavy turbulence!",
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -92499,6 +92631,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92533,6 +92666,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92561,6 +92695,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92592,6 +92727,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92620,6 +92756,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92648,6 +92785,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92676,6 +92814,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92704,6 +92843,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92732,6 +92872,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92760,6 +92901,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -92798,6 +92940,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92826,6 +92969,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92854,6 +92998,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92882,6 +93027,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92910,6 +93056,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Good last thermal if you plan to final glide to an airfield in the so called Rheingraben.",
       "conditions": Object {
         "times": Array [
           "AFTERNOON/LATE_AFTERNOON",
@@ -92940,6 +93087,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92968,6 +93116,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -92996,6 +93145,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93024,6 +93174,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93052,6 +93203,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93078,6 +93230,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93104,6 +93257,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93132,6 +93286,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93159,6 +93314,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93186,6 +93342,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93224,6 +93381,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93250,6 +93408,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": "give attention to the airspace Düsseldorf!",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93278,6 +93437,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Beware of hang-gliders and paragliders. Works best on a gentle western breeze. On strong wind conditions, ridge soaring is possible along this ridge. ",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93307,6 +93467,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -93335,6 +93496,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93363,6 +93525,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93391,6 +93554,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -93425,6 +93589,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93453,6 +93618,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93481,6 +93647,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93507,6 +93674,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93535,6 +93703,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93563,6 +93732,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93591,6 +93761,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93618,6 +93789,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93646,6 +93818,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93673,6 +93846,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93706,6 +93880,8 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Mögliche Auslösung der gesamten Hangkante entlang.
+Achtung F.-W.-Betrieb.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93739,6 +93915,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Nice Thermal most on North side of Lake.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93772,6 +93949,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93800,6 +93978,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93828,6 +94007,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93856,6 +94036,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93882,6 +94063,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -93912,6 +94094,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93940,6 +94123,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93968,6 +94152,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -93996,6 +94181,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94024,6 +94210,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94052,6 +94239,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Best in cold weather conditions e.g. postfrontal.",
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94085,6 +94273,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94112,6 +94301,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": "Good thermal to enter the Odenwald. Especially good and reliable before noon.",
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -94142,6 +94332,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -94170,6 +94361,7 @@ Object {
       "aircraftCategories": Array [
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "MORNING/NOON",
@@ -94199,6 +94391,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94227,6 +94420,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94255,6 +94449,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94283,6 +94478,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94311,6 +94507,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94339,6 +94536,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94367,6 +94565,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94395,6 +94594,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",
@@ -94423,6 +94623,7 @@ Object {
         "HANG_GLIDER",
         "GLIDER",
       ],
+      "comment": null,
       "conditions": Object {
         "times": Array [
           "NOON/AFTERNOON",

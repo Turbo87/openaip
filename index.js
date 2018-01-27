@@ -80,6 +80,9 @@ function readHotspot(node) {
   let _cats = findCollection(node, 'AIRCRAFTCATEGORIES', 'AIRCRAFTCATEGORY');
   let aircraftCategories = _cats.map(it => it._text);
 
+  let _comment = node['COMMENT'];
+  let comment = _comment ? _comment._text : null;
+
   return {
     type,
     country,
@@ -90,6 +93,7 @@ function readHotspot(node) {
     occurrence,
     conditions,
     aircraftCategories,
+    comment,
   };
 }
 

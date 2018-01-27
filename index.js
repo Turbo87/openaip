@@ -14,7 +14,28 @@ function parse(str) {
 
   let version = getAttribute(root, 'VERSION');
 
-  return { version };
+  let airspaces = findAirspaces(root);
+  let hotspots = findHotspots(root);
+  let navaids = findNavaids(root);
+  let waypoints = findWaypoints(root);
+
+  return { version, airspaces, hotspots, navaids, waypoints };
+}
+
+function findAirspaces(root) {
+  return [];
+}
+
+function findHotspots(root) {
+  return [];
+}
+
+function findNavaids(root) {
+  return [];
+}
+
+function findWaypoints(root) {
+  return [];
 }
 
 function getChild(parent, name) {

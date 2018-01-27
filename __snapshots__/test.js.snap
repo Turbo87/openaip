@@ -2,24 +2,40 @@
 
 exports[`fixtures de_asp.aip 1`] = `
 Object {
+  "airspaces": Array [],
+  "hotspots": Array [],
+  "navaids": Array [],
   "version": "5280e1c1c34273664f8d8b884fc5c4c309b3e475",
+  "waypoints": Array [],
 }
 `;
 
 exports[`fixtures de_hot.aip 1`] = `
 Object {
+  "airspaces": Array [],
+  "hotspots": Array [],
+  "navaids": Array [],
   "version": "1542404",
+  "waypoints": Array [],
 }
 `;
 
 exports[`fixtures de_nav.aip 1`] = `
 Object {
+  "airspaces": Array [],
+  "hotspots": Array [],
+  "navaids": Array [],
   "version": "1746655",
+  "waypoints": Array [],
 }
 `;
 
 exports[`fixtures de_wpt.aip 1`] = `
 Object {
+  "airspaces": Array [],
+  "hotspots": Array [],
+  "navaids": Array [],
   "version": "1773968",
+  "waypoints": Array [],
 }
 `;

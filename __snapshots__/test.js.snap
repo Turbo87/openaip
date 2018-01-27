@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fixtures de_asp.aip 1`] = `undefined`;
+
+exports[`fixtures de_hot.aip 1`] = `undefined`;
+
+exports[`fixtures de_nav.aip 1`] = `undefined`;
+
+exports[`fixtures de_wpt.aip 1`] = `undefined`;

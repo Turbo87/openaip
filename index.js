@@ -54,7 +54,58 @@ function readAltitudeLimit(node) {
 }
 
 function findHotspots(root) {
-  return [];
+  return findCollection(root, 'HOTSPOTS', 'HOTSPOT').map(readHotspot);
+}
+
+function readHotspot(node) {
+  let type = getAttribute(node, 'TYPE');
+  let country = getChildText(node, 'COUNTRY');
+  let name = getChildText(node, 'NAME');
+
+  let _geolocation = getChild(node, 'GEOLOCATION');
+  let _lat = parseFloat(getChildText(_geolocation, 'LAT'));
+  let _lon = parseFloat(getChildText(_geolocation, 'LON'));
+  let position = [_lon, _lat];
+  let _elevation = getChild(_geolocation, 'ELEV');
+  let elevation = {
+    unit: getAttribute(_elevation, 'UNIT'),
+    value: parseFloat(_elevation._text),
+  };
+
+  let reliability = getChildText(node, 'RELIABILITY');
+  let occurrence = getChildText(node, 'OCCURRENCE');
+
+  let conditions = findConditions(node);
+
+  let _cats = findCollection(node, 'AIRCRAFTCATEGORIES', 'AIRCRAFTCATEGORY');
+  let aircraftCategories = _cats.map(it => it._text);
+
+  return {
+    type,
+    country,
+    name,
+    position,
+    elevation,
+    reliability,
+    occurrence,
+    conditions,
+    aircraftCategories,
+  };
+}
+
+function findConditions(node) {
+  let _conditions = node['CONDITIONS'];
+  if (!_conditions) {
+    return null;
+  }
+
+  let type = getAttribute(_conditions, 'TYPE');
+  let _times = findCollection(_conditions, 'TIMEOFDAY', 'TIME');
+  let times = _times.map(it => it._text);
+  let _wind = findCollection(_conditions, 'WIND', 'DIRECTION');
+  let wind = _wind.map(it => parseInt(it._text, 10));
+
+  return { type, times, wind };
 }
 
 function findNavaids(root) {

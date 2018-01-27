@@ -88766,7 +88766,5686 @@ Object {
 exports[`fixtures de_hot.aip 1`] = `
 Object {
   "airspaces": Array [],
-  "hotspots": Array [],
+  "hotspots": Array [
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1431,
+      },
+      "name": "Aiplspitz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.943333669,
+        47.671387274,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1759,
+      },
+      "name": "Aiplspitz Gipfel",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.923908233486,
+        47.673150774123,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 62,
+      },
+      "name": "Airfield Brand",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.779166666667,
+        52.0625,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 67,
+      },
+      "name": "Airfield Wilsche forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.466111111111,
+        52.5375,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 454,
+      },
+      "name": "Allern",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.376042365621,
+        50.226096287375,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 100,
+      },
+      "name": "Altengrabow military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.254444444444,
+        52.171111111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 93,
+      },
+      "name": "Altmark military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.601388888889,
+        52.468055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 40,
+      },
+      "name": "Alt Ruppin",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.832777777778,
+        52.964722222222,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 379,
+      },
+      "name": "am Turm",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        9.1272869110036,
+        51.098257082718,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 110,
+      },
+      "name": "B102 Tiefenbrunnen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.964166666667,
+        52.0475,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 108,
+      },
+      "name": "B246 Schlaubetal",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.575277777778,
+        52.158611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1477,
+      },
+      "name": "Bad Hindelang",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.376380920373,
+        47.518668244235,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 320,
+      },
+      "name": "Bad Neustadt Steinbruch",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        10.228709220833,
+        50.296841461893,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 2015,
+      },
+      "name": "Baierkar Spitze",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.37111152,
+        47.493611111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 102,
+      },
+      "name": "BASF chemical plant",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.4333801266191,
+        49.500353647521,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1150,
+      },
+      "name": "Baumgarten Schneid",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.819722613,
+        47.703612107,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 52,
+      },
+      "name": "Bayerwerk Leverkusen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.9853305813855,
+        51.022717621382,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 112,
+      },
+      "name": "Bergholz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.605833333333,
+        52.1225,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 47,
+      },
+      "name": "Berkenbrueck forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.124444444444,
+        52.373611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          90,
+          135,
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 181,
+      },
+      "name": "Bielefeld Deponie",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.573545048951,
+        51.969473809575,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 740,
+      },
+      "name": "Blessberg spire",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.007222222222,
+        50.455833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 95,
+      },
+      "name": "Bodenteich",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.655833333333,
+        52.851666666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 137,
+      },
+      "name": "Boehlen power plant",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.377222222222,
+        51.185555555556,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 613,
+      },
+      "name": "Bottenhorn TV-Tower",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.4296035763243,
+        50.788791545028,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 130,
+      },
+      "name": "Boxberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.573879241367,
+        51.421369543198,
+      ],
+      "reliability": "0.35",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1591,
+      },
+      "name": "Brecher Spitz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.869166353,
+        47.67611035,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 430,
+      },
+      "name": "Brettachtal",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.5232152935057,
+        49.12924615597,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 112,
+      },
+      "name": "Bruchsal industrial area",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.5518779754814,
+        49.146250580139,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1580,
+      },
+      "name": "Bruennstein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.094722251,
+        47.64805534800001,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1185,
+      },
+      "name": "Buchenauer Kopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.465555961,
+        47.692779427,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 61,
+      },
+      "name": "Bugsinsee",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.809722222222,
+        52.949444444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 48,
+      },
+      "name": "Die Glashütte ",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.5113739967899,
+        51.624454724713,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 46,
+      },
+      "name": "Dormagen Chemical Plant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.8371009823934,
+        51.066427724183,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 300,
+      },
+      "name": "Düse",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        9.3657352924177,
+        51.535341739396,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 65,
+      },
+      "name": "Eggersdorf center",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.104166666667,
+        52.4875,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 75,
+      },
+      "name": "Eggersdorf RW06",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.066666666667,
+        52.479444444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 82,
+      },
+      "name": "Ehra-Lessien",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.733611111111,
+        52.600277777778,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 103,
+      },
+      "name": "Eicholzer Heide farm",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.685555555556,
+        51.618888888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 375,
+      },
+      "name": "Eisklingen valley",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.0611457821083,
+        49.489538471594,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 113,
+      },
+      "name": "Elster",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.488333333333,
+        51.498611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 478,
+      },
+      "name": "Engerda",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.402222222222,
+        50.805,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 63,
+      },
+      "name": "Erlebnishof Werder",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.125833333333,
+        52.025833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 128,
+      },
+      "name": "Flechtingen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.223888888889,
+        52.3175,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1459,
+      },
+      "name": "Fockenstein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.650555903,
+        47.68472321899999,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 93,
+      },
+      "name": "Fortuna Powerplant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.6702461240054,
+        50.994635074057,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 808,
+      },
+      "name": "Geitauer Buckel",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.971388671,
+        47.683056653,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 46,
+      },
+      "name": "Genthin",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.144444444444,
+        52.436944444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          90,
+          135,
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 483,
+      },
+      "name": "Giengen Brenz",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        10.212358474682,
+        48.643929799821,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          90,
+          135,
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 606,
+      },
+      "name": "Glashütten",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.37982749928,
+        50.438938700013,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 63,
+      },
+      "name": "Glockenheide camping",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.516111111111,
+        52.4125,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 202,
+      },
+      "name": "Grossenhain",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.577777777778,
+        51.386944444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 64,
+      },
+      "name": "Gross Godems forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.841111111111,
+        53.373055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          90,
+          135,
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 336,
+      },
+      "name": "Gruber Forst",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.056503295742,
+        50.194776689805,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 600,
+      },
+      "name": "Guggenberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.710348129193,
+        48.212795677648,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 433,
+      },
+      "name": "Gundremmingen AKW",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        10.398387908534,
+        48.515808378092,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1619,
+      },
+      "name": "Gunzesried",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.136741638121,
+        47.508929094263,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1626,
+      },
+      "name": "Gurnwand",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.579444555,
+        47.70444539,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": -19,
+      },
+      "name": "Hambach coal conveyor belt junction",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.4918899533538,
+        50.892206008436,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          45,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 227,
+      },
+      "name": "Hangdüse Flp. Arnsberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.057922363318,
+        51.381601645321,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 686,
+      },
+      "name": "Hausbart Kirchzarten",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.9890861511636,
+        47.937007633155,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 48,
+      },
+      "name": "Heidedreieck",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.221069182589,
+        52.611413322328,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1395,
+      },
+      "name": "Heimgarten Hangwind",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.246944657,
+        47.615000648,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 41,
+      },
+      "name": "Henkel",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        6.8390944004881,
+        51.178707640556,
+      ],
+      "reliability": "0.35",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 354,
+      },
+      "name": "Hermsdorf A9/A4 crossing",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.863333333333,
+        50.871111111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1571,
+      },
+      "name": "Herzogstand",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.310833393,
+        47.609167666,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 76,
+      },
+      "name": "Hilden Stadtwald",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.9579162598487,
+        51.189958591667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1699,
+      },
+      "name": "Hinterstein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.428222656185,
+        47.484109282063,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1624,
+      },
+      "name": "Hirschberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.704166912,
+        47.65972131100001,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1307,
+      },
+      "name": "Hirschhoernl",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.426110764,
+        47.625833328,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 106,
+      },
+      "name": "Hockenheim Motodrom",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.5693359371614,
+        49.329597107647,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 103,
+      },
+      "name": "Hockenheim Talhaus",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.5362567901798,
+        49.332020054626,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1876,
+      },
+      "name": "Hohe Kiste",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.184444157,
+        47.550277775,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 63,
+      },
+      "name": "Holthusen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.41,
+        53.545277777778,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 82,
+      },
+      "name": "Holzdorf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.175277777778,
+        51.773055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 74,
+      },
+      "name": "Hoppegarten sandpit north",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.029444444444,
+        52.508611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 62,
+      },
+      "name": "Hoppegarten sandpit south",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.026388888889,
+        52.485,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          90,
+          135,
+          180,
+          225,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 300,
+      },
+      "name": "Hönningen",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        6.9517579079484,
+        50.4769160335,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1245,
+      },
+      "name": "Immenstadt",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.192789077689,
+        47.550134206333,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 54,
+      },
+      "name": "Jänickendorf tank training area",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.032222222222,
+        52.455,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 73,
+      },
+      "name": "Jänschwalde",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        14.457879065891,
+        51.833868172054,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 57,
+      },
+      "name": "Kamp-Lintfort Leucht",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.5018463132141,
+        51.549324033402,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 133,
+      },
+      "name": "Kaolinwerk Caminau",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.356092452793,
+        51.326284474113,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 168,
+      },
+      "name": "Karlstadt quarry",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.7543659209584,
+        49.949635817041,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 2151,
+      },
+      "name": "Karwendelspitze",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.298333293,
+        47.435001257,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 78,
+      },
+      "name": "Kienhorst",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.634722222222,
+        52.968055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1976,
+      },
+      "name": "Kienjoch",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.953055278,
+        47.515276471,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 84,
+      },
+      "name": "Kiesgrube Großkoschen",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        14.053882598666,
+        51.48645084378,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 708,
+      },
+      "name": "Koesseine",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.9975,
+        50.010555555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1682,
+      },
+      "name": "Kotzen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.517777879,
+        47.526389188,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": null,
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 28,
+      },
+      "name": "Kraftwerk Voerde",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.6847083739756,
+        51.578343702988,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 434,
+      },
+      "name": "Kulmbach",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.453611111111,
+        50.1475,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 417,
+      },
+      "name": "Kulmbach northeast",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.496666666667,
+        50.155833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 365,
+      },
+      "name": "Kunitz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.25,
+        50.748611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 103,
+      },
+      "name": "L532 Lug",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.989722222222,
+        51.656388888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1462,
+      },
+      "name": "Laber",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.089444764,
+        47.58222257,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 47,
+      },
+      "name": "Lachendorf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.243888888889,
+        52.619444444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 748,
+      },
+      "name": "Laichingen",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        9.6342887878112,
+        48.495372113852,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 302,
+      },
+      "name": "Langendehnbach",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.644722222222,
+        50.753055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1394,
+      },
+      "name": "Latschenkopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.467222527,
+        47.631389687,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 78,
+      },
+      "name": "Lausitzer Grenzwall",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.734722222222,
+        51.768055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 52,
+      },
+      "name": "Leiferde train station",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.445833333333,
+        52.4675,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 39,
+      },
+      "name": "Lingen nuclear power plant",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.3266666666667,
+        52.4725,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 311,
+      },
+      "name": "Loewe",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.340087890513,
+        50.233169243138,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 52,
+      },
+      "name": "Lotzing lake",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.558611111111,
+        52.991944444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1193,
+      },
+      "name": "Luckenkopf Ost",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.678610905,
+        47.716111353,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1345,
+      },
+      "name": "Luckenkopf West",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.666110805,
+        47.713888126,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 29,
+      },
+      "name": "Luebtheen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.136111111111,
+        53.268055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 114,
+      },
+      "name": "Lübnitz forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.560555555556,
+        52.193888888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 362,
+      },
+      "name": "Marburg Lahnberge",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.8060569759686,
+        50.814612418503,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 39,
+      },
+      "name": "Markhausen forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.7952777777778,
+        52.9375,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1590,
+      },
+      "name": "Maroldschneid",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.971388671,
+        47.64361231,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          45,
+          90,
+          135,
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 430,
+      },
+      "name": "Maroldsweisach, Steinbruch",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.680867347787,
+        50.19635564241,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 162,
+      },
+      "name": "Medewitzerhütten forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.356388888889,
+        52.089722222222,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 650,
+      },
+      "name": "Merkur",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        8.2792153358716,
+        48.764707901031,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 410,
+      },
+      "name": "Military training area Kuelsheim",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.5223655699331,
+        49.645586546369,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 44,
+      },
+      "name": "Muehlrose forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.45,
+        52.246666666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 46,
+      },
+      "name": "Muehlrose military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.373055555556,
+        52.284166666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 89,
+      },
+      "name": "Munster military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.173888888889,
+        52.990555555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 86,
+      },
+      "name": "Munster military training ground south",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.0725,
+        52.905833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          180,
+          225,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 351,
+      },
+      "name": "Netze forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.0817108154246,
+        51.24221627156,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 100,
+      },
+      "name": "Neurath BoA Powerplant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.6362571713631,
+        51.03578100965,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 107,
+      },
+      "name": "Neurath Powerplant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.6157436368165,
+        51.036968407834,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 635,
+      },
+      "name": "Nordhelle",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.7721405026217,
+        51.147586536606,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 177,
+      },
+      "name": "Nuclear power plant Neckarwestheim",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        9.1744079589796,
+        49.04339966404,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 136,
+      },
+      "name": "Oberlautsitz military training ground center",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.868333333333,
+        51.448055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 140,
+      },
+      "name": "Oberlautsitz military training ground east",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.9175,
+        51.454444444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 125,
+      },
+      "name": "Oberlautsitz military training ground west",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.466944444444,
+        51.469722222222,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 501,
+      },
+      "name": "Oberrodach",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.415275573657,
+        50.254411920775,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 898,
+      },
+      "name": "Ochsenkopf spire",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.814166666667,
+        50.038888888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 70,
+      },
+      "name": "Ohligser Heide",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.9723701474276,
+        51.157331091643,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 113,
+      },
+      "name": "Oschatz northeast",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.173055555556,
+        51.3675,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 101,
+      },
+      "name": "Philippsburg AKW",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.4377574917199,
+        49.254361131551,
+      ],
+      "reliability": "0.65",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 527,
+      },
+      "name": "Posseck",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.346954345553,
+        50.336452995385,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 563,
+      },
+      "name": "Pump storage lake near Rönkhausen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.9922103878643,
+        51.215163814063,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          135,
+          180,
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 601,
+      },
+      "name": "Radspitz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.43313908568,
+        50.24653621839,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 986,
+      },
+      "name": "Raggenhorn",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.137599945025,
+        47.684072861282,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1245,
+      },
+      "name": "Rechenberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.519722234,
+        47.72250099499999,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 110,
+      },
+      "name": "Reinsdorf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.183611111111,
+        51.882222222222,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 303,
+      },
+      "name": "Remscheid Railway Station",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.1962470085006,
+        51.176321296306,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 359,
+      },
+      "name": "Remscheid train station",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.2083333333333,
+        51.183611111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 329,
+      },
+      "name": "Remschuetz",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.366944444444,
+        50.675277777778,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          45,
+          90,
+          135,
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 380,
+      },
+      "name": "Rennesberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.366309165875,
+        50.254110088579,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1542,
+      },
+      "name": "Risserkogel",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.823055746,
+        47.637499291,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 97,
+      },
+      "name": "Rittergutsheide",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.734166666667,
+        52.100833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1336,
+      },
+      "name": "Ross Buchstein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.693333378,
+        47.627499894,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1607,
+      },
+      "name": "Rotenkopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.187222337,
+        47.511390093,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 454,
+      },
+      "name": "Rothenberg western slope",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.9178085323569,
+        49.46890496386,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1744,
+      },
+      "name": "Rotwand",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.932500136,
+        47.648331971,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 289,
+      },
+      "name": "Rurtalsperre",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.4811611172941,
+        50.638901411243,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 677,
+      },
+      "name": "Sackpfeife",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.5384368893041,
+        50.955074670943,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 42,
+      },
+      "name": "Sage desulfurization area",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.2363888888889,
+        52.958333333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 91,
+      },
+      "name": "Salzgitter steelworks",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.407222222222,
+        52.161388888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 124,
+      },
+      "name": "Sandgrube Buer",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        8.4451904297042,
+        52.240694681659,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1658,
+      },
+      "name": "Schafkopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.185321807789,
+        47.42508617085,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1695,
+      },
+      "name": "Schellkopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.904722298,
+        47.50055399800001,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1686,
+      },
+      "name": "Schinder",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.854728698665,
+        47.602651267189,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          90,
+          135,
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 500,
+      },
+      "name": "Schlegelshaid",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.485656738171,
+        50.300377834619,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1009,
+      },
+      "name": "Schneeberg spire",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.858611111111,
+        50.050277777778,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 74,
+      },
+      "name": "Scholven Powerplant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        7.0069255829646,
+        51.602202855235,
+      ],
+      "reliability": "0.35",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 363,
+      },
+      "name": "Schriesheim quarry",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.6782550808324,
+        49.46834718084,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 122,
+      },
+      "name": "Schwarze Pumpe",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        14.353981017504,
+        51.537366907293,
+      ],
+      "reliability": "0.35",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1643,
+      },
+      "name": "Schwarzkopf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.313610719,
+        47.460276372,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1300,
+      },
+      "name": "Seeberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.004166749,
+        47.664444387,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          0,
+          45,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1019,
+      },
+      "name": "Seeberg",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        11.975555941,
+        47.674443784,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 47,
+      },
+      "name": "Siedichum",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        14.559166666667,
+        52.209166666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1646,
+      },
+      "name": "Sojerngrat",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.409166773,
+        47.514443188,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 2187,
+      },
+      "name": "Sojernspitze",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.357778137,
+        47.480555204,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 176,
+      },
+      "name": "Sonnborner Kreuz",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        7.0923271179957,
+        51.230608579547,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 528,
+      },
+      "name": "Sonneberg slope",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.155555555556,
+        50.391666666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1529,
+      },
+      "name": "Sonnenberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.026666788,
+        47.583612513,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 116,
+      },
+      "name": "Speyer military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.3961811065907,
+        49.328775794205,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1542,
+      },
+      "name": "Spitzstein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.247103690963,
+        47.710906054174,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 502,
+      },
+      "name": "Stadtkyll train station",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        6.5322222222222,
+        50.358333333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 399,
+      },
+      "name": "Start 12",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.34386444082,
+        50.245959896377,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          45,
+          90,
+          135,
+          180,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 416,
+      },
+      "name": "Start 30",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.375450134183,
+        50.242227356509,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          45,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 143,
+      },
+      "name": "Stukenbrock Baggersee",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.6712684631479,
+        51.912684221764,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 64,
+      },
+      "name": "Templin",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.555,
+        53.035,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 168,
+      },
+      "name": "Temporary construction site Sinsheim",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.8841285705608,
+        49.240707674625,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 478,
+      },
+      "name": "Thaelendorf",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.227222222222,
+        50.721111111111,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 26,
+      },
+      "name": "Thuelsfelder dam",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        7.9402777777778,
+        52.938888888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 28,
+      },
+      "name": "ThyssenKrupp Steel",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.7332426891855,
+        51.506675948728,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1524,
+      },
+      "name": "Traithen",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.036389021,
+        47.642498989,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 53,
+      },
+      "name": "Verden",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        9.4202777777778,
+        52.955833333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1288,
+      },
+      "name": "Vorderriss",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.420000306,
+        47.561390493,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 126,
+      },
+      "name": "Walbeck",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.0725,
+        52.305,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 784,
+      },
+      "name": "Waldstein spire",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.853055555556,
+        50.133333333333,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          180,
+          225,
+          270,
+          315,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 108,
+      },
+      "name": "Walldorf Autobahn Junction",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.6207485195539,
+        49.280852363741,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 45,
+      },
+      "name": "Wasserwerk",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.005592346149,
+        52.532034498291,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [
+          225,
+          270,
+        ],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 520,
+      },
+      "name": "Weisser Stein",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.7209987636903,
+        49.448374364787,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+          "EVENING",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 142,
+      },
+      "name": "Weisweiler Powerplant",
+      "occurrence": "NEARLY_CONSTANT",
+      "position": Array [
+        6.3230609891265,
+        50.839714412,
+      ],
+      "reliability": "0.9",
+      "type": "ARTIFICIAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "MORNING/NOON",
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 330,
+      },
+      "name": "Werbe quarry",
+      "occurrence": "SCHEDULED_INTERVAL",
+      "position": Array [
+        9.0089263916036,
+        51.218675399713,
+      ],
+      "reliability": "0.35",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 51,
+      },
+      "name": "Wildeshausen roadhouse",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.4308333333333,
+        52.923888888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 35,
+      },
+      "name": "Wildeshausen West",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        8.3475,
+        52.906944444444,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 51,
+      },
+      "name": "WilscheSued",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        10.455555555556,
+        52.519722222222,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 85,
+      },
+      "name": "Wittstock military training ground",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.693055555556,
+        53.076388888889,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 52,
+      },
+      "name": "Wittstock roadhouse",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.543888888889,
+        53.071666666667,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 2331,
+      },
+      "name": "Woerner",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.336944352,
+        47.450276975,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 60,
+      },
+      "name": "Zehdenick",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        13.360555555556,
+        53.018055555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 625,
+      },
+      "name": "Zeitelmoos forest",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        11.979444444444,
+        50.060555555556,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+    Object {
+      "aircraftCategories": Array [
+        "PARAGLIDER",
+        "HANG_GLIDER",
+        "GLIDER",
+      ],
+      "conditions": Object {
+        "times": Array [
+          "NOON/AFTERNOON",
+          "AFTERNOON/LATE_AFTERNOON",
+        ],
+        "type": "FAVORABLE",
+        "wind": Array [],
+      },
+      "country": "DE",
+      "elevation": Object {
+        "unit": "M",
+        "value": 1524,
+      },
+      "name": "Zinnenberg",
+      "occurrence": "IRREGULAR_INTERVAL",
+      "position": Array [
+        12.265600204331,
+        47.732645538678,
+      ],
+      "reliability": "0.65",
+      "type": "NATURAL",
+    },
+  ],
   "navaids": Array [],
   "version": "1542404",
   "waypoints": Array [],

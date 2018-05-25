@@ -2675,9 +2675,9 @@ ws@^4.0.0:
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
 
-xml-js@^1.6.3:
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/xml-js/-/xml-js-1.6.3.tgz#c28e1d76f446ad922f279e8612043029736e3e72"
+xml-js@^1.6.4:
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/xml-js/-/xml-js-1.6.4.tgz#fcf9fdc9fb6d691122a02fe5a55c30f84d93ab90"
   dependencies:
     sax "^1.2.4"
 

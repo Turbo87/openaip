@@ -13,7 +13,7 @@
     "xml-js": "^1.6.4"
   },
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^23.2.0"
   },
   "prettier": {
     "singleQuote": true,

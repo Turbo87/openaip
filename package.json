@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "xml-js": "^1.6.9"
+    "xml-js": "^1.6.11"
   },
   "devDependencies": {
     "jest": "^24.1.0"
